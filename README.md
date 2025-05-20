@@ -16,6 +16,16 @@ The **Dealership Portal** is a PHP-based web application that allows users to br
 - **Email Verification**: A verification link is sent to the admin's email. Account must be verified before logging in.
 - **Login/Logout**: Session-based authentication.
 - **Add Vehicles**: Only verified admins can add new vehicles to the inventory.
+  
+---
+
+## Tech Stack
+
+- **PHP 8.2 with Apache.**
+- **MariaDB 10.4.**
+- **Bootstrap 5.**
+- **PHPMailer.**
+- **Docker & Docker Compose.**
 
 ---
 
