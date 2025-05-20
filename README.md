@@ -54,7 +54,7 @@ DB_USER=""          # Same as DB_USER from .env
 DB_PASS=""          # Same as DB_PASS from .env
 DB_NAME=""          # Same as DB_NAME from .env
 
-email_password="kpyobjnxgcuskmnn"   # Gmail App Password for sending verification emails
+email_password=""   # Gmail App Password for sending verification emails
 admin_email=""                      # Gmail account used to send verification emails
 application_url=localhost:8080      # Use server IP in production, or localhost for local dev
 
