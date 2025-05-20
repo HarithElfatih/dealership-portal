@@ -1,2 +1,3 @@
 .env
 /src/includes/config.env
+/src/uploads
